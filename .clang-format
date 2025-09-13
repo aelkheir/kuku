@@ -1,0 +1,18 @@
+BraceWrapping:
+  AfterFunction: false 
+  AfterClass: false
+  AfterControlStatement: true
+  BeforeElse: true
+IndentWidth: 4
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+BreakTemplateDeclarations: Yes
+PointerAlignment: Left
+ColumnLimit: 100
+BreakBeforeTernaryOperators: true
+AlignOperands: AlignAfterOperator
+SpaceBeforeCpp11BracedList: true
+BreakConstructorInitializers: AfterColon
+PackConstructorInitializers: Never
+Cpp11BracedListStyle: false
+
